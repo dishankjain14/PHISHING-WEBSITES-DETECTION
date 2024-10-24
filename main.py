@@ -26,7 +26,6 @@ def extract_url_features(url):
     features['google_index'] = 1 if 'google' in url else 0
     features['page_rank'] = 0.5  # Placeholder (adjust if page rank data is available)
     features['phish_hints'] = 1 if 'phish' in url.lower() else 0
-    features['suspecious_tld'] = 1 if url.endswith('.xyz') else 0  # Example for suspicious TLDs
     features['external_favicon'] = 0  # Placeholder (adjust if favicon info is available)
     return features
 
