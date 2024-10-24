@@ -66,7 +66,7 @@ To run this project locally, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/phishing-website-detection.git
+git clone https://github.com/dishankjain14/PHISHING-WEBSITES-DETECTION.git
 cd phishing-website-detection
 
 Create and activate a virtual environment:
