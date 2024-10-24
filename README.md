@@ -5,7 +5,7 @@ GITHUB LINK: https://github.com/dishankjain14/PHISHING-WEBSITES-DETECTION
 
 Phishing Website Detection Using Machine Learning
 This project aims to detect phishing websites using machine learning techniques. The model uses a variety of URL-based features and webpage characteristics to determine whether a given URL is legitimate or phishing. The project is implemented using Python, with a focus on a streamlined deployment using Streamlit for the frontend.
-
+FULL DATA SET LINK: https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset
 Table of Contents
 Overview
 Features
